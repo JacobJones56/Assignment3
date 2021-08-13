@@ -1,0 +1,18 @@
+.blueletterdiv{
+    font-size: 30px;
+}
+
+#blueletter{
+    color: blue;
+}
+
+.background{
+    background-color: black;
+}
+
+#lightblue{
+    color: lightblue;
+    border-style: dotted solid dotted solid;
+    border-color: lightcoral;
+    margin: 50px 100px 50px 100px;
+}
